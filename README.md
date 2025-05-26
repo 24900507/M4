@@ -23,8 +23,10 @@ int main() {
 }
 ```
 ## OUTPUT
+```
 44
 After left shifting by 3 positions: 352
+```
 
 ## RESULT
 Thus the program to perform the basic left shift operation for 44 integer number with 3 shifts has been executed successfully.
@@ -63,9 +65,11 @@ int main() {
 }
 ```
 ## OUTPUT
+```
 10
 10
-The numbers are equal.      
+The numbers are equal.
+```  
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -101,8 +105,10 @@ int main() {
 }
 ```
 ## OUTPUT
+```
 HELLO wOrld
 String in lowercase: hello world
+```
 
 
 ## RESULT
@@ -146,8 +152,10 @@ int main() {
 }
 ```
 ## OUTPUT
+```
 how are you?
 Total number of words: 3
+```
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
@@ -203,9 +211,11 @@ int main() {
 ```
 
 ## OUTPUT
+```
  hello
  hello
  Strings are equal.
+```
 
 
 ## RESULT

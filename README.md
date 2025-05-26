@@ -101,7 +101,9 @@ int main() {
 }
 ```
 ## OUTPUT
+HELLO wOrld
 String in lowercase: hello world
+
 
 ## RESULT
 Thus the program to convert the given string into lowercase has been executed successfully
@@ -144,7 +146,8 @@ int main() {
 }
 ```
 ## OUTPUT
-Total number of words: 4
+how are you?
+Total number of words: 3
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
